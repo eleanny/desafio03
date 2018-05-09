@@ -1,0 +1,107 @@
+.España{
+	
+	border:solid;
+	border-color: black;
+	float:left;
+	border-width: 1px;
+	width: 500px;
+	clear:left;
+
+
+}
+.d1{
+	background-color: red;
+	width: 500px;
+	height: 83.3px;
+}
+.d2{
+	background-color: yellow;
+	width: 500px;
+	height: 83.3px;
+}
+.d3{
+	background-color: red;
+	width: 500px;
+	height: 83.3px;
+}
+.Dinamarca{
+    width:500px;
+    height:250px;
+    background-color: red;
+    float:right;
+    border: solid gray 1px;
+    box-sizing: border-box;
+
+
+}
+.rojo1{
+    width:100px;
+    height: 120px;
+    border-right:solid white 10px;
+    border-bottom:solid white 20px;
+    float: left;
+}
+
+.rojo2{
+    width: 378px;
+    height: 120px;
+    border-left:solid white 10px;
+    border-bottom:solid white 20px;
+    float:right;
+}
+
+.rojo3{
+    clear;
+    width:100px;
+    height: 120px;
+    border-right:solid white 10px;
+    border-bottom:solid white 10px;
+    float: left;
+}
+
+.rojo4{
+    width: 378px;
+    height: 120px;
+    border-left:solid white 10px;
+    border-bottom:solid white 10px;
+    float:right;
+}
+.Emiratos{
+	border:solid;
+	border-color: black;
+	float:left;
+	border-width: 1px;
+	width: 500px;
+	height: 250px;
+
+}
+.e1{
+	background-color:red;
+	float:left;
+	height: 250px;
+	width: 25%;
+}
+.e2{
+	background-color: green;
+	float:right;
+	height: 83.3px;
+	width: 75%;
+	
+}
+.e3{
+	background-color: white;
+	float:right;
+	height: 83.3px;
+	width: 75%;
+	
+}
+.e4{
+	background-color: black;
+	float:right;
+	height: 83.3px;
+	width: 75%;
+	
+}
+p{
+	float: left;
+}

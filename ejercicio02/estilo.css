@@ -1,0 +1,25 @@
+html, body { margin: 0; }
+.elem {
+width: 200px;
+height: 200px;
+}
+.square1 {/*rosado*/
+background-color: rgba(255, 0, 0, .5);
+position: absolute;
+
+
+}
+.square2 {/*verde*/
+background-color: rgba(0, 255, 0, .5);
+left: 25px;
+position: absolute;
+top: 25px;
+z-index: -1;
+}
+.square3 {
+background-color: rgba(0, 0, 255, .5);
+left: 50px;
+position: absolute;
+top: 50px;
+z-index: -2;
+}
