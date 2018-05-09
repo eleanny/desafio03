@@ -1,3 +1,6 @@
+.Contenedor1{
+	margin-top: : 20px;
+}
 .España{
 	
 	border:solid;
@@ -31,7 +34,7 @@
     float:right;
     border: solid gray 1px;
     box-sizing: border-box;
-
+  
 
 }
 .rojo1{
@@ -70,9 +73,11 @@
 	border:solid;
 	border-color: black;
 	float:left;
+	margin-top: 20px;
 	border-width: 1px;
 	width: 500px;
 	height: 250px;
+	 clear:left;
 
 }
 .e1{
@@ -103,5 +108,22 @@
 	
 }
 p{
-	float: left;
+	float:right;
+}
+.Japon{
+    margin-top: 20px;
+    width:500px;
+    height:250px;
+    float:right;
+    background-color: white;
+    border: solid gray 1px;
+    box-sizing: border-box;
+}
+
+.pelota{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin: 50px 150px;
 }
