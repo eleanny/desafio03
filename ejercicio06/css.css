@@ -1,0 +1,23 @@
+body{
+	margin:0;
+}
+
+.cont1{
+	box-sizing: border-box;
+}
+.contenedor{
+	width: 100%;text-align: center;
+	position: absolute;
+	z-index: -1;
+}
+
+.contenedor2{
+	width: 100%;text-align: center;
+	z-index: 999;
+}
+
+.contenedor2 img{
+	width: 80px;
+	margin-top: 135px;
+    margin-left: 130px;
+}

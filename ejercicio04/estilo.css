@@ -1,8 +1,10 @@
 section{
+	height: 200px;
 	background-color:#b0ccab; 
 	padding:50px
 }
-p{
+.p1{
 	position:fixed; 
+	margin-left: 100px;
 	left:40px;
 }

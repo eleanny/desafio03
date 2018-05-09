@@ -1,0 +1,51 @@
+.contenedor{
+margin-top: 0px;
+}
+.barra{
+   position: fixed;
+   top:0px;
+   margin: 0 20%;
+}
+.d1{
+background-color: black;
+height: 50px;
+}
+.d1 h1{
+color:white;
+margin-top: 0px;
+margin-left: 10px;
+}
+.d2{
+   background-color:grey;
+   float:left;
+   height: 160px;
+   width: 400px;
+}
+.d2 h2{
+   margin-left: 10px;
+   margin-top: 0px;
+}
+.d3{
+   background-color:white;
+   float:right;
+   text-align: left;
+   height: 160px;
+   width: 500px;
+
+}
+.d3 h2{
+   margin-left: 10px;
+   margin-top: 0px;
+   
+}
+.d3 p{
+
+   font-size: smaller;
+   margin-left: 10px;
+}
+.d4{
+clear:left;
+   background-color:#D3D3D3;
+   height: 25px;
+   width: 900px;
+}
